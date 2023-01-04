@@ -1,0 +1,36 @@
+body{
+	background: #e6e9f0;
+	color: #e9f2ff;
+}
+header {
+	background: #FF9800;
+}
+
+footer {
+    background: #FF9800;
+}
+
+.current-antrian {
+	background: #fbddb1;
+    color: #22242e;
+}
+
+.current-antrian-title, .current-antrian-tujuan {
+	font-weight: bold;
+}
+
+.box-antrian-body {
+	background: #fbddb1;
+    color: #241e36;
+}
+
+.box-antrian-header {
+	background: #f7d39f;
+    border-bottom: 1px solid #ffcc82;
+    color: #241e36;
+    font-weight: 400;
+}
+
+.ambil-antrian {
+	background: #ffba56;
+}

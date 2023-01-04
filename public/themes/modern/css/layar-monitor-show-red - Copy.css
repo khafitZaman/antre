@@ -1,0 +1,28 @@
+body{
+	background: #e6e9f0;
+	color: #e9f2ff;
+}
+header {
+	background: #e73131;
+}
+
+footer {
+    background: #e73131;
+}
+
+.box-antrian-body {
+	background: #f94863;
+}
+
+.box-antrian-content {
+	background: #f53b57;
+}
+
+.box-antrian-header {
+	background: #ee3a56;
+    border-bottom: 1px solid #d9223e;
+}
+
+.current-antrian {
+	background: #e3314d;
+}

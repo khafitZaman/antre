@@ -1,0 +1,94 @@
+body{
+	background: #f0f1f5;
+	color: #e9f2ff;
+}
+header {
+	background: #466ad5;
+}
+
+footer {
+    background: #466ad5;
+}
+
+.current-antrian {
+	background: #6f6fa6;
+}
+
+.current-antrian-title, .current-antrian-tujuan {
+	/* font-weight: bold; */
+}
+
+.box-antrian-body {
+	background: #fbddb1;
+}
+
+/* .box-antrian-header {
+	background: #f7d39f;
+    border-bottom: 1px solid #ffcc82;
+} */
+
+.box-antrian:nth-child(1) .box-antrian-header {
+	background: #9e26fb;
+	border-color: #9e26fb;
+}
+
+.box-antrian:nth-child(1) .box-antrian-body {
+	background: #a838ff;
+}
+
+.box-antrian:nth-child(2) .box-antrian-header {
+	background: #00be7a;
+    border-color: #00c67f;
+}
+
+.box-antrian:nth-child(2) .box-antrian-body {
+	background: #00cf85;
+}
+
+.box-antrian:nth-child(3) .box-antrian-header {
+	background: #e63f48;
+    border-color: #f55961;
+}
+
+.box-antrian:nth-child(3) .box-antrian-body {
+	background: #ee4e57;
+}
+
+.box-antrian:nth-child(4) .box-antrian-header {
+	background: #308ded;
+    border-color: #278cf5;
+}
+
+.box-antrian:nth-child(4) .box-antrian-body {
+	background: #3699ff;
+}
+
+.box-antrian:nth-child(5) .box-antrian-header {
+	background: #ec8431;
+    border-color: #e87c25
+}
+
+.box-antrian:nth-child(5) .box-antrian-body {
+	background: #ff9541;
+}
+
+
+.ambil-antrian:nth-child(1) {
+	background: #9e26fb;
+}
+
+.ambil-antrian:nth-child(2) {
+	background: #00cf85;
+}
+
+.ambil-antrian:nth-child(3) {
+	background: #ee4e57;
+}
+
+.ambil-antrian:nth-child(4) {
+	background: #308ded;
+}
+
+.ambil-antrian:nth-child(5) {
+	background: #ff9541;
+}

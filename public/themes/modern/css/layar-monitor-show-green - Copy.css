@@ -1,0 +1,25 @@
+body{
+	background: #e6e9f0;
+	color: #e9f2ff;
+}
+header {
+	background: #338b37;
+}
+
+footer {
+    background: #338b37;
+}
+
+.current-antrian {
+	background: #3fb144;
+}
+
+.box-antrian-body {
+	background: #3fb144;
+}
+
+.box-antrian-header {
+	background: #278d2c;
+    border-bottom: 1px solid #2bab32;
+}
+
